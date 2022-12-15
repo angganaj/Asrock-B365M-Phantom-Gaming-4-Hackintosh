@@ -45,7 +45,7 @@ Kext|Description|for
 Parameter|Description
 |--|--|
 agdpmod=pikera|Used for disabling board ID checks on Navi GPUs(RX 5000 series), without this you'll get a black screen.<br>**Don't use if you don't have Navi** (ie. Polaris and Vega cards shouldn't use this).
-alcid="XX"| layout 1, 2, 3, 4, 5, 7, 11, 27, 28, 29
+alcid=XX| layout 1, 2, 3, 4, 5, 7, 11, 27, 28, 29
 
 # Special notes
 
